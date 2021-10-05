@@ -1,3 +1,3 @@
-# ExampleforSkillfactory
-ExampleforSkillfactory
+# ExampleforSf
+ExampleforSf
 changes
